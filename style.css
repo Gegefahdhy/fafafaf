@@ -110,7 +110,7 @@ padding-left: 20px;
 }
 
 header{
-  display: inline;
+  display: block;
 }
 
 @media screen and (max-width: 100px) {
